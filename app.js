@@ -1,4 +1,8 @@
 //Ingreso de Datos
+let nombre = prompt ("Ingrese su nombre")
+
+let saludo =("Bienvenido" + " " + nombre + "!")
+alert(saludo)
 
 let pesoMedia = parseFloat (prompt ("Peso MediaRes:"))
 
